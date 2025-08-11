@@ -4,6 +4,7 @@
 To provide a clear and interactive overview of hospital patient admissions and medical conditions using Microsoft Power BI, in order to support healthcare administrators in monitoring patient trends, optimizing resource allocation, and improving care delivery.
 
 ## Dataset Used
+[healthcare_dataset](https://github.com/LeviAdamMiller/Medical_Overview/blob/main/healthcare_dataset.csv)
 
 ## Key Performance Questions
 - How many patients were admitted overall, and what percentage were emergency cases?
